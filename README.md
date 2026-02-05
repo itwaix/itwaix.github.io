@@ -37,6 +37,4 @@ A clean, minimal academic website template, designed for researchers and PhD stu
 
 MIT License
 
----
 
-For a live example, visit [Yuhui Zhang's website](https://cs.stanford.edu/~yuhuiz/).
